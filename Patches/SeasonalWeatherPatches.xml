@@ -3,7 +3,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "AridShrubland"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>18</Clear>
           <Fog>1</Fog>
@@ -50,7 +50,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "Desert"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>18</Clear>
           <Rain>2</Rain>
@@ -94,7 +94,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "ExtremeDesert"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>18</Clear>
           <Rain>1</Rain>
@@ -137,7 +137,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "BorealForest"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>18</Clear>
           <Rain>2</Rain>
@@ -184,7 +184,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "Tundra"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>14</Clear>
           <Rain>2</Rain>
@@ -231,7 +231,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "IceSheet"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>8</Clear>
           <Rain>2</Rain>
@@ -270,7 +270,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "SeaIce"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>12</Clear>
           <Rain>1</Rain>
@@ -312,7 +312,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "TemperateForest"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>18</Clear>
           <Rain>1.5</Rain>
@@ -359,7 +359,7 @@
   <Operation Class="PatchOperationAddModExtension">
     <xpath>/Defs/BiomeDef[defName = "TropicalRainforest"]</xpath>
     <value>
-      <li Class="SeasonalWeather.SeasonalWeatherExtension">
+      <li Class="SeasonalWeatherLite.SeasonalWeatherExtension">
         <spring>
           <Clear>13</Clear>
           <Rain>7</Rain>
