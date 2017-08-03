@@ -58,7 +58,7 @@
   <PropertyGroup>
     <PostBuildEvent>xcopy /Y $(TargetDir)* "C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\$(ProjectName)\Assemblies\"
 xcopy /E /Y $(SolutionDir)..\About\* "C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\$(ProjectName)\About\"
-xcopy /E /Y $(SolutionDir)..\Defs\* "C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\$(ProjectName)\Defs\"</PostBuildEvent>
+xcopy /E /Y $(SolutionDir)..\Patches\* "C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\$(ProjectName)\Patches\"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
     <PreBuildEvent>if not exist "C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\$(ProjectName)" mkdir "C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\$(ProjectName)"</PreBuildEvent>
