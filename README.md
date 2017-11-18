@@ -1,6 +1,6 @@
 # Seasonal Weather Lite
 
-[![RimWorld Alpha 17](https://img.shields.io/badge/RimWorld-Alpha%2017-brightgreen.svg)](http://rimworldgame.com/)
+[![RimWorld Beta 18](https://img.shields.io/badge/RimWorld-Alpha%2018-brightgreen.svg)](http://rimworldgame.com/)
 
 Extends weather to change based on season. Includes only vanilla weather.
 
@@ -24,4 +24,4 @@ Special thanks to Pardeike's amazing non-destructive patching library, Harmony, 
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-lightgray.svg?style=flat" alt="MIT License" />
   </a>
-</p> 
+</p>
